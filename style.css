@@ -1,0 +1,57 @@
+body, html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    background: #6f7984;
+}
+
+.container {
+    display: flex;
+    flex: 1 auto;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    flex: 0 920px;
+}
+
+h4 {
+    font-size: 22px;
+    margin: 10px;
+}
+
+.card {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px 0;
+    background: #eef2f7;
+    border-top: 30px solid #3d4752;
+    border-bottom: 10px solid #3d4752;
+}
+
+.card span.header {
+    color: #eef2f7;
+    margin-top: -32px;
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.card p {
+    color: #3d4752;
+    font-size: 18px;
+}
+
+.game {
+    display: flex;
+    flex: 1 auto;
+    justify-content: center;
+}
+
+a {
+    color: #e53;
+}
