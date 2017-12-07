@@ -35,10 +35,12 @@ h4 {
 
 .card span.header {
     color: #eef2f7;
-    margin-top: -32px;
+    margin-top: -40px;
     margin-left: 10px;
-    font-size: 24px;
-    font-weight: 800;
+    font-size: 32px;
+    font-weight: 700;
+    font-style: italic;
+    text-transform: uppercase;
 }
 
 .card p {
